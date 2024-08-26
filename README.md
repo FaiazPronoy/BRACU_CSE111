@@ -3,7 +3,7 @@
 Welcome to my CSE111 repository! This repository contains the lab assignments I completed during my coursework at BRAC University as part of my Bachelor's in Computer Science and Engineering (CSE). Each folder within this repository corresponds to a specific topic, with detailed solutions and code implementations.
 
 ## Course Contents
-- Week 1 & 2: String, List, Dictionary, Tuple, Funcions
+- Week 1 & 2: String, List, Dictionary, Tuple, Functions
 - Week 3 & 4: Intro to OOP
 - Week 5: Introduction to Method and Designing class
 - Week 6: Method Overloading & Constructor Overloading
