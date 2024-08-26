@@ -12,7 +12,6 @@ Welcome to my CSE111 repository! This repository contains the lab assignments I 
 - Week 10: Inheritance
 - Week 11: Variable and Method Overriding
 
-
 ## License
 
 This repository is licensed under the [Apache-2.0 License] (http://www.apache.org/licenses/). You are free to use, modify, and distribute the code with proper attribution.
